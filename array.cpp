@@ -41,5 +41,7 @@ int main(){
 
     }
     cout << endl;
+
+    cout << "tampil data array menggunakan for" << endl;
  
 }
