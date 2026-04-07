@@ -13,6 +13,9 @@ int main(){
     cout << "isi data kedua setelah dirubah : " << dataku[1] << endl;
 
     cout << "isikan data pertama : ";
-    cin >> data,u[0];
+    cin >> datamu[0];
+    cout << "isikan data kedua : ";
+    cin >> datamu[1];
     
+ 
 }
