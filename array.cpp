@@ -20,6 +20,9 @@ int main(){
     cin >> datamu[2];
     cout << "isikan data keempatt : ";
     cin >> datamu[3];
+    cout << "isikan data kemlima : ";
+    cin >> datamu[4];
+    cout << endl;
     
  
 }
