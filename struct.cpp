@@ -8,3 +8,11 @@ struct Orang
     int umur;
 
 };
+
+int main()
+{
+    Orang mhs;
+
+
+    
+}
