@@ -15,3 +15,20 @@ struct Orang
     int umur;
 };
 
+int main()
+{
+    Orang mhs[3];
+    for( int i = 0; i<= 2; i++)
+    {
+        cout << "isikan data nama   : ";
+        getline(cin , mhs[i].nama);
+        cout << "isikan data desa   : ";
+        getline(cin , mhs[i].alamat.desa);
+        cout << "isikan data kota   : ";
+        getline(cin , mhs[i].alamat.kota);
+        cout << "isikan data umur   : ";
+        cin >> mhs[i].umur;
+        cin.ignore();
+        cout << endl;
+    }
+}
