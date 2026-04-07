@@ -14,5 +14,13 @@ int main()
     Orang mhs;
 
 
+    cout << "isikan data nama : ";
+    cin >> mhs.nama;
+    cout << "isikan data alamaat : ";
+    cin >> mhs.alamat;
+    cout << "isikan data umur : ";
+    cin >> mhs.umur;
+    cout << endl;
+
     
 }
