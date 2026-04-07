@@ -23,6 +23,14 @@ int main(){
     cout << "isikan data kemlima : ";
     cin >> datamu[4];
     cout << endl;
+
+
+    cout << "data pertamaa = " << datamu[0] << endl;
+    cout << "data kedua = " << datamu[1] << endl;
+    cout << "data ketiga = " << datamu[2] << endl;
+    cout << "data keempat = " << datamu[3] << endl;
+    cout << "datakelima = " << datamu[4] << endl;
+    cout << endl;
     
  
 }
