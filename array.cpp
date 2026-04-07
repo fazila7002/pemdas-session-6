@@ -9,5 +9,7 @@ int main(){
     cout << "isi data kedua : " << dataku[1] << endl;
 
     dataku[1] = 200;
+
+    cout << "isi data kedua setelah dirubah : " << dataku[1] << endl;
     
 }
