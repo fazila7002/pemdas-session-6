@@ -7,5 +7,7 @@ int main(){
     int datamu[5];
 
     cout << "isi data kedua : " << dataku[1] << endl;
+
+    dataku[1] = 200;
     
 }
