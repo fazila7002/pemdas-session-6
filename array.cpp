@@ -11,5 +11,8 @@ int main(){
     dataku[1] = 200;
 
     cout << "isi data kedua setelah dirubah : " << dataku[1] << endl;
+
+    cout << "isikan data pertama : ";
+    cin >> data,u[0];
     
 }
