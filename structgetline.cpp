@@ -27,6 +27,10 @@ int main()
     cin >> mhs.umur;
     cout << endl;
 
-
-
+    cout << "Data Tampil" << endl;
+    cout << " NAma  : " << endl;
+    cout << "DEsa   : " << mhs.alamat.desa << endl;
+    cout << "Kota   : " << mhs.alamat.kota << endl;
+    cout << "Umur   : " << mhs.umur << endl;
+    
 }
