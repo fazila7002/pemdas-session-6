@@ -31,6 +31,15 @@ int main(){
     cout << "data keempat = " << datamu[3] << endl;
     cout << "datakelima = " << datamu[4] << endl;
     cout << endl;
-    
+
+    cout << "input array menggunakan for " << endl;
+
+    for (int i = 0; i <=4; i++)
+    {
+        cout << "isikan data ke-" << (i =1) << " : " ;
+        cin >> datamu[i];
+
+    }
+    cout << endl;
  
 }
